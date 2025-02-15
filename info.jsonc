@@ -1,0 +1,26 @@
+{
+  // General information about the course
+  "course_code": "",
+  "course_name": "",
+  "semester": "",
+  "n_sections": 0,
+  "missing_sections": [],
+  
+  // Tokens and IDs
+  "routine_sheet_id": "",
+  "enrolment_and_marks_folder_id": "",
+  "guild_id": "",
+  "bot_token": "",
+  
+  // The remaining parts are managed by the bot.
+  // Please do not change anything unless you know what you are doing.
+  
+  // [Auto-generated] Links
+  "invite": "",
+  "enrolment": "",
+  "marks_enabled": false,
+  "marks_ids": {},
+  
+  // [Auto-generated] Mark sheets are grouped by theory faculties
+  "marks_groups": {}
+}
