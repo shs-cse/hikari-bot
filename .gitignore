@@ -1,4 +1,3 @@
 *.json
 __pycache__
-valid_info.jsonc
-bkup_info.jsonc
+*_info.jsonc
