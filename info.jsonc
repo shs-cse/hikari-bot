@@ -8,6 +8,7 @@
   
   // Tokens and IDs
   "routine_sheet_id": "",
+  "st_sheet_id": "",
   "enrolment_and_marks_folder_id": "",
   "guild_id": "",
   "bot_token": "",
